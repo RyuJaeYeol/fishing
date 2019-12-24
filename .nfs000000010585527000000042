@@ -3,14 +3,14 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,minimum-scale=1.0,initial-scale=1.0">
-		<title>충북 실내 낚시터 - 전국 낚시터 정보</title>
+		<title>전국 낚시터 정보</title>
 	<meta name="author" content="yohan1002@gmail.com">
 	<meta name="keywords" content="낚시,민물낙시,낚시터 갬핑장,송어낚시터,바다낚시터,실내낚시터,송어개장,찌낚시">
-	<meta name="description" content="충북 실내 낚시터 소개, 목록, 추천">
+	<meta name="description" content="낚시펜션,민물낚시터,바다낚시터,좌대낚시터,유료낚시터 국내 낚시터의 모든 곳을 공유합니다. : 전국 낚시터 정보">
 	<meta name="referrer" content="always">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<link rel="shortcut icon" type="image/x-icon" href="https://fishing.yohan1002.com/favicon.ico"/>
-	<link rel="canonical" href="https://fishing.yohan1002.com/지역/충천북도/실내/"/>
+	<link rel="canonical" href="https://fishing.yohan1002.com/"/>
 		<link href="//www.googletagmanager.com" rel="dns-prefetch"/>	
 		<link href="//pagead2.googlesyndication.com" rel="dns-prefetch"/>
 	<link href="//googleads.g.doubleclick.net" rel="dns-prefetch"/>
@@ -31,19 +31,19 @@
 
 		
 	
-	<meta property="og:type" content="article">
+	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="전국 낚시터 정보">
-	<meta property="og:title" content="충북 실내 낚시터">
-	<meta property="og:description" content="충북 실내 낚시터 소개, 목록, 추천">
-	<meta property="og:url" content="https://fishing.yohan1002.com/지역/충천북도/실내/"/>
+	<meta property="og:title" content="전국 낚시터 정보">
+	<meta property="og:description" content="낚시펜션,민물낚시터,바다낚시터,좌대낚시터,유료낚시터 국내 낚시터의 모든 곳을 공유합니다.">
+	<meta property="og:url" content="https://fishing.yohan1002.com/"/>
 	<meta property="og:image" content="https://fishing.yohan1002.com/res/img/icon/icon.png">
 	
 
 	
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:site" content="@">
-	<meta name="twitter:title" content="충북 실내 낚시터">
-	<meta name="twitter:description" content="충북 실내 낚시터 소개, 목록, 추천">
+	<meta name="twitter:title" content="전국 낚시터 정보">
+	<meta name="twitter:description" content="낚시펜션,민물낚시터,바다낚시터,좌대낚시터,유료낚시터 국내 낚시터의 모든 곳을 공유합니다.">
 	<meta property="twitter:image" content="https://fishing.yohan1002.com/res/img/icon/icon.png">
 	
 
@@ -54,17 +54,17 @@
 						
 	<link rel="alternate" type="application/rss+xml" title="전국 낚시터 정보" href="https://fishing.yohan1002.com/atom.xml"/>
 
-			<link href="/res/css/min/4a4f37173ec59e6a2c24b064f9fd1401.css" type="text/css" rel="stylesheet" />
+			<link href="/res/css/min/d56df5c9caa36109168c729a32c2530c.css" type="text/css" rel="stylesheet" />
 
 	
 			
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149589982-4"></script>
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149589982-1"></script>
 		<script>
 		  window.dataLayer = window.dataLayer || [];
 		  function gtag(){dataLayer.push(arguments);}
 		  gtag('js', new Date());
 
-		  gtag('config', 'UA-149589982-4');
+		  gtag('config', 'UA-149589982-1');
 		</script>
 	
 	</head>
@@ -80,46 +80,47 @@
 <section class="main-body clearfix">
 <div class="main-box">
 	<section id="main-panel">
-			
-	<article id="article" class="article hentry">
-		<div class="title">
-			<h2 class="entry-title">충북 실내 낚시터</h2>
-						<time class="published hide" datetime="2019-12-20 14:57:05">2019.12.20. 14:57</time>
-			<time class="updated hide" datetime="2019-12-24 09:29:45">2019.12.24. 09:29</time>
-			<span class="vcard author hide"><span class="fn">yohan1002@gmail.com</span></span>
+			<div id="siteMain">
+		<div class="box">
+			<h3>지역별 낚시터</h3>
+						<div class="list-box">
+				<ul class="list clearfix">
+											<li><a href="/지역/전국/" title="전국 낚시터" class="item">전국</a></li>
+											<li><a href="/지역/서울특별시/" title="서울 낚시터" class="item">서울</a></li>
+											<li><a href="/지역/경기도/" title="경기 낚시터" class="item">경기</a></li>
+											<li><a href="/지역/인천광역시/" title="인천 낚시터" class="item">인천</a></li>
+											<li><a href="/지역/대전광역시/" title="대전 낚시터" class="item">대전</a></li>
+											<li><a href="/지역/대구광역시/" title="대구 낚시터" class="item">대구</a></li>
+											<li><a href="/지역/부산광역시/" title="부산 낚시터" class="item">부산</a></li>
+											<li><a href="/지역/울산광역시/" title="울산 낚시터" class="item">울산</a></li>
+											<li><a href="/지역/광주광역시/" title="광주 낚시터" class="item">광주</a></li>
+											<li><a href="/지역/강원도/" title="강원 낚시터" class="item">강원</a></li>
+											<li><a href="/지역/세종/" title="세종 낚시터" class="item">세종</a></li>
+											<li><a href="/지역/충천북도/" title="충북 낚시터" class="item">충북</a></li>
+											<li><a href="/지역/충천남도/" title="충남 낚시터" class="item">충남</a></li>
+											<li><a href="/지역/경상북도/" title="경북 낚시터" class="item">경북</a></li>
+											<li><a href="/지역/경상남도/" title="경남 낚시터" class="item">경남</a></li>
+											<li><a href="/지역/전라북도/" title="전북 낚시터" class="item">전북</a></li>
+											<li><a href="/지역/전라남도/" title="전남 낚시터" class="item">전남</a></li>
+											<li><a href="/지역/제주/" title="제주 낚시터" class="item">제주</a></li>
+									</ul>
+			</div>
 		</div>
-		<div class="markdown-body entry-content"><section class="list">
-			<dl class="clearfix filters">
-		<dt>분류</dt>
-					<dd><a href="/지역/충천북도/">전체</a></dd>
-					<dd><a href="/지역/충천북도/바다/">바다</a></dd>
-					<dd><a href="/지역/충천북도/저수지/">저수지</a></dd>
-					<dd><a href="/지역/충천북도/실내/">실내</a></dd>
-					<dd><a href="/지역/충천북도/평지/">평지</a></dd>
-					<dd><a href="/지역/충천북도/기타/">기타</a></dd>
-			</dl>
-	
-	<ul id="fishingList" class="clearfix">
-					</ul>
 
-				<dl class="clearfix filters">
-			<dt>분류</dt>
-							<dd><a href="/지역/충천북도/">전체</a></dd>
-							<dd><a href="/지역/충천북도/바다/">바다</a></dd>
-							<dd><a href="/지역/충천북도/저수지/">저수지</a></dd>
-							<dd><a href="/지역/충천북도/실내/">실내</a></dd>
-							<dd><a href="/지역/충천북도/평지/">평지</a></dd>
-							<dd><a href="/지역/충천북도/기타/">기타</a></dd>
-					</dl>
+		<div class="box">
+			<h3>유형별 낚시터</h3>
+						<div class="list-box">
+				<ul class="list clearfix">
+											<li><a href="/유형/바다/" title="바다 낚시터" class="item">바다</a></li>
+											<li><a href="/유형/저수지/" title="저수지 낚시터" class="item">저수지</a></li>
+											<li><a href="/유형/실내/" title="실내 낚시터" class="item">실내</a></li>
+											<li><a href="/유형/평지/" title="평지 낚시터" class="item">평지</a></li>
+											<li><a href="/유형/기타/" title="기타 낚시터" class="item">기타</a></li>
+									</ul>
+			</div>
+		</div>
+	</div>
 	</section>
-</div>
-				
-		<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="40563640974538c7722ebb33897ddb7a" data-facebook-app-id=""></div>
-	</article>
-
-	
-
-		</section>
 </div>
 <nav id="sidebar" class="slideout-menu">
 
@@ -149,6 +150,6 @@
 </footer>
 
 
-<script src="/res/js/min/8976116ee6b85d0ba594c9ed16eb91e4.js" async="true" type="text/javascript"></script>
+<script src="/res/js/min/32e31ca97a81f2f71fe09813d6e1116e.js" async="true" type="text/javascript"></script>
 </body>
 </html>
